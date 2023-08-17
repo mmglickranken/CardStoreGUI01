@@ -1,0 +1,12 @@
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-4\HOT4CardStoreGUI\CardDesignerGUI\bin\Debug\CardDesignerGUI.exe.config
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-4\HOT4CardStoreGUI\CardDesignerGUI\bin\Debug\CardDesignerGUI.exe
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-4\HOT4CardStoreGUI\CardDesignerGUI\bin\Debug\CardDesignerGUI.pdb
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-4\HOT4CardStoreGUI\CardDesignerGUI\obj\Debug\CardDesignerGUI.csproj.AssemblyReference.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-4\HOT4CardStoreGUI\CardDesignerGUI\obj\Debug\CardDesignerGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-4\HOT4CardStoreGUI\CardDesignerGUI\obj\Debug\CardDesignerGUI.frmCardDesigner.resources
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-4\HOT4CardStoreGUI\CardDesignerGUI\obj\Debug\CardDesignerGUI.Properties.Resources.resources
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-4\HOT4CardStoreGUI\CardDesignerGUI\obj\Debug\CardDesignerGUI.csproj.GenerateResource.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-4\HOT4CardStoreGUI\CardDesignerGUI\obj\Debug\CardDesignerGUI.csproj.CoreCompileInputs.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-4\HOT4CardStoreGUI\CardDesignerGUI\obj\Debug\CardDesignerGUI.exe
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-4\HOT4CardStoreGUI\CardDesignerGUI\obj\Debug\CardDesignerGUI.pdb
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-4\HOT4CardStoreGUI\CardDesignerGUI\obj\Debug\CardDesignerGUI.frmCardDesignerHome.resources
